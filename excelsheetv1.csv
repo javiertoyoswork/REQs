@@ -1,166 +1,170 @@
-﻿Category,Model,Related Project,Product Manufacturer,Part Description,Part Number,Spec / Finish / Length ,Inventory ID,Live Stock Quantity,UOM,aux,Column1,Stock check,Duplicated
-Supports,,Tool Install Elec,Unistrut,2 Hole 90 Deg Fitting,P1026,ZD,P1026ZD,1960,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,2 Hole Left Fitting Bracket ,P2341 L,ZD,P2341 LZD,120,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,2 Hole Right Fitting Bracket ,P2341 R,ZD,P2341 RZD,250,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,2 Hole Straight Fitting,P1065,ZD,P1065ZD,4600,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,2 Hole Z Fitting,P4045,ZD,P4045ZD,680,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,2+1 Hole Left Fitting,P1037,ZD,P1037ZD,100,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,2+2 HOLE BASE PLATE,P2072,ZD,P2072ZD,210,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,2+2 HOLE BASE PLATE,P2786,ZD,P2786ZD,0,Ea,Ok,0,01/01/2000,Not Repeated
-Supports,,Tool Install Elec,Unistrut,2+4 Hole Base Plate,P2073,ZD,P2073ZD,150,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,2+6 Hole Wing Fitting,P2346,ZD,P2346ZD,350,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,3 Hole 90 Deg Fitting,P1326,ZD,P1326ZD,1600,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,3 Hole Deep U Fitting,P1737,ZD,P1737ZD,100,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,3 Hole Flat R/Angle Fitting,P1036,ZD,P1036ZD,2730,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,3 Hole Straight Fitting,P1066,ZD,P1066ZD,20,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,3 Hole U Fitting,P4047,ZD,P4047ZD,1824,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,3 Hole Z Fitting,P1045,ZD,P1045ZD,3270,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,3+1 Hole 90 Deg Fitting,P1033,ZD,P1033ZD,20,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,4 Hole 90 Deg Fitting,P1325,ZD,P1325ZD,670,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,4 Hole Flat Delta T Fitting,P1358,ZD,P1358ZD,10,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,4 Hole Flat T Fitting,P1031,ZD,P1031ZD,220,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,4 Hole Straight Fitting,P1067,ZD,P1067ZD,1160,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,5 Hole U Fitting,P1047,ZD,P1047ZD,4040,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,7 Hole 90 Deg Gusset Fitting,P2484,ZD,P2484ZD,20,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,Adjustable 4-Hole Hinge,P1354,ZD,P1354ZD,20,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,Angle Beamclamp,P1796,ZD,P1796ZD,270,Ea,Ok,0,20/08/2024,Not Repeated
-Containment,,Tool Install Elec,Cleveland Cable (IRE),Basket 100 mm Tool Install,  CF105100E,,  CF105100E,117,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Cleveland Cable (IRE),Basket 150 mm Tool Install,  CF105150E,,  CF105150E,36,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Cleveland Cable (IRE),Basket 200 mm Tool Install,  CF105200E,,  CF105200E,141,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Cleveland Cable (IRE),Basket 300 mm Tool Install,  CF105300E,,  CF105300E,312,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Cleveland Cable (IRE),Basket 400 mm Tool Install,  CF105400E,,  CF105400E,147,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Cleveland Cable (IRE),Basket 450 mm Tool Install,  CF105450E,,  CF105450E,105,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Cleveland Cable (IRE),Basket 500 mm Tool Install,  CF105500E,,  CF105500E,21,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Cleveland Cable (IRE),Basket 600 mm Tool Install,  CF105600E,,  CF105600E,117,Meters,Ok,0,07/10/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,1700A,,1700A,305,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,1700A,,1700A,305,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,27600A,,27600A,305,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,28327A,,28327A,1220,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,3092A,,3092A,610,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,412280,,412280,610,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,4300ULW,,4300ULW,2890,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,4302ULW,,4302ULW,5920,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,4305ULW,,4305ULW,1500,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,5504FE,,5504FE,305,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,820501305,,820501305,1830,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,82444877,,82444877,305,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,8244877,,8244877,305,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,82489877,,82489877,610,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,83602002,,83602002,305,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,83653002,,83653002,305,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,8457050,,8457050,305,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,8471ELW,,8471ELW,305,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,85220368,,85220368,610,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,8677,,8677,305,Meters,Ok,0,01/01/2000,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,8677066,,8677066,455,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,8770ELW,,8770ELW,3050,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,8770NH,,8770NH,3350,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,9156060,,9156060,305,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,9260060,,9260060,305,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,9439060,,9439060,305,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,9501NH,,9501NH,500,Meters,Ok,0,11/09/2024,Not Repeated
-Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,984101305,,984101305,915,Meters,Ok,0,11/09/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Cable Tray 100 x 50 mm Tool Install,Cable Tray 100 x 50 mm ,,Cable Tray 100 x 50 mm ,8,Ea,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Cable Tray 150 x 25 mm Tool Install,Cable Tray 150 x 25 mm ,,Cable Tray 150 x 25 mm ,28,Ea,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Cable Tray 150 x 50 mm Tool Install,Cable Tray 150 x 50 mm ,,Cable Tray 150 x 50 mm ,20,Ea,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Cable Tray 300 x 25 mm Tool Install,Cable Tray 300 x 25 mm ,,Cable Tray 300 x 25 mm ,2,Ea,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Cable Tray 50 x 25 mm Tool Install,Cable Tray 50 x 25 mm ,,Cable Tray 50 x 25 mm ,4,Ea,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Cable Tray 50 x 50 mm Tool Install,Cable Tray 50 x 50 mm ,,Cable Tray 50 x 50 mm ,10,Ea,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Cable Tray 75 x 25 mm Tool Install,Cable Tray 75 x 25 mm ,,Cable Tray 75 x 25 mm ,30,Ea,Ok,0,07/10/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,Channel,P1000,ZD / / 3,P1000ZD / / 3,1512,Meters,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,Channel,P1000,ZD / / 6,P1000ZD / / 6,69,Meters,Ok,0,01/01/2000,Not Repeated
-Supports,,Tool Install Elec,Unistrut,Channel,P3300,ZD / / 3,P3300ZD / / 3,105,Meters,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,Channel,P3300,ZD / / 6,P3300ZD / / 6,3969,Meters,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,Comb Channel,P1001,ZD,P1001ZD,0,Ea,Ok,0,01/01/2000,Not Repeated
-Supports,,Tool Install Elec,Unistrut,Comb Channel,P1001,ZD / / 3,P1001ZD / / 3,462,Meters,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,Comb Channel,P3301,ZD / / 3,P3301ZD / / 3,1308,Meters,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,Comb Channel,P3301,ZD / / 6,P3301ZD / / 6,4462,Meters,Ok,0,20/08/2024,Not Repeated
-Commscope,,Tool Install Elec,Anixter Distribution Ireland Ltd,Data Whip 3-Port-10MT   ,257121-LG3P-35FT-R4,,257121-LG3P-35FT-R4,28,Ea,Ok,0,30/10/2024,Not Repeated
-Commscope,,Tool Install Elec,Anixter Distribution Ireland Ltd,Data Whip 3-Port-15MT   ,257121-LG3P-50FT-R4,,257121-LG3P-50FT-R4,64,Ea,Ok,0,30/10/2024,Not Repeated
-Commscope,,Tool Install Elec,Anixter Distribution Ireland Ltd,Data Whip 3-Port-20MT   ,257121-LG3P-65FT-R4,,257121-LG3P-65FT-R4,65,Ea,Ok,0,30/10/2024,Not Repeated
-Commscope,,Tool Install Elec,Anixter Distribution Ireland Ltd,Data Whip 3-Port-25MT   ,257121-LG3P-85FT-R4,,257121-LG3P-85FT-R4,2,Ea,Ok,0,30/10/2024,Not Repeated
-Commscope,,Tool Install Elec,Anixter Distribution Ireland Ltd,Data Whip 6-Port-10MT   ,257121-LG6P-35FT-R1,,257121-LG6P-35FT-R1,27,Ea,Ok,0,30/10/2024,Not Repeated
-Commscope,,Tool Install Elec,Anixter Distribution Ireland Ltd,Data Whip 6-Port-15MT   ,257121-LG6P-50FT-R1,,257121-LG6P-50FT-R1,13,Ea,Ok,0,30/10/2024,Not Repeated
-Commscope,,Tool Install Elec,Anixter Distribution Ireland Ltd,Data Whip 6-Port-20MT   ,257121-LG6P-65FT-R1,,257121-LG6P-65FT-R1,11,Ea,Ok,0,30/10/2024,Not Repeated
-Commscope,,Tool Install Elec,Anixter Distribution Ireland Ltd,Data Whip 6-Port-25MT   ,257121-LG6P-85FT-R1,,257121-LG6P-85FT-R1,2,Ea,Ok,0,30/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Fillet/Divider 100 mm Tool Install,Fillet/Divider 100 mm ,,Fillet/Divider 100 mm ,50,Ea,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Fillet/Divider 75 mm Tool Install,Fillet/Divider 75 mm ,,Fillet/Divider 75 mm ,42,Ea,Ok,0,07/10/2024,Not Repeated
-Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 100 Metric,100A21RA,,100A21RA,0,Meters,Ok,0,00/01/1900,Not Repeated
-Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 115 Metric,115A21RA,,115A21RA,0,Meters,Ok,0,00/01/1900,Not Repeated
-Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 130 Metric,130A21RA,,130A21RA,0,Meters,Ok,0,00/01/1900,Not Repeated
-Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 20 Metric,20A21RA,,20A21RA,0,Meters,Ok,0,00/01/1900,Not Repeated
-Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 20S Metric,20SA21RA,,20SA21RA,0,Meters,Ok,0,00/01/1900,Not Repeated
-Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 20S16 Metric,20S16A21RA,,20S16A21RA,0,Meters,Ok,0,00/01/1900,Not Repeated
-Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 25 Metric,25A21RA,,25A21RA,0,Meters,Ok,0,00/01/1900,Not Repeated
-Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 32 Metric,32A21RA,,32A21RA,0,Meters,Ok,0,00/01/1900,Not Repeated
-Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 40 Metric,40A21RA,,40A21RA,0,Meters,Ok,0,00/01/1900,Not Repeated
-Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 50 Metric,50A21RA,,50A21RA,0,Meters,Ok,0,00/01/1900,Not Repeated
-Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 50S Metric,50SA21RA,,50SA21RA,0,Meters,Ok,0,00/01/1900,Not Repeated
-Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 63 Metric,63A21RA,,63A21RA,0,Meters,Ok,0,00/01/1900,Not Repeated
-Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 63S Metric,63SA21RA,,63SA21RA,0,Meters,Ok,0,00/01/1900,Not Repeated
-Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 75 Metric,75A21RA,,75A21RA,0,Meters,Ok,0,00/01/1900,Not Repeated
-Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 75S Metric,75SA21RA,,75SA21RA,0,Meters,Ok,0,00/01/1900,Not Repeated
-Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 90 Metric,90A21RA,,90A21RA,0,Meters,Ok,0,00/01/1900,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 100 x 1200 mm SZ Tool Install,571669,,571669,0,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 100 x 150 mm SZ Tool Install,571648,,571648,54,Meters,Ok,0,06/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 100 x 200 mm SZ Tool Install,571649,,571649,0,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 100 x 300 mm SZ Tool Install,571651,,571651,105,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 100 x 450 mm Base Build Tool Install ,571654,Base Build,571654Base Build,66,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 100 x 450 mm SZ Tool Install,571654,,571654,0,Meters,Ok,0,23/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 100 x 600 mm SZ Tool Install,571657,,571657,42,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 100 x 750 mm SZ Tool Install,571660,,571660,135,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 100 x 900 mm SZ Tool Install,571663,,571663,3,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 150 x 1200 mm SZ Tool Install,571692,,571692,66,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 150 x 150 mm SZ Tool Install,571671,,571671,360,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 150 x 200 mm SZ Tool Install,571672,,571672,42,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 150 x 300 mm SZ Tool Install,571674,,571674,57,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 150 x 450 mm SZ Tool Install,571677,,571677,57,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 150 x 600 mm SZ Tool Install,571680,,571680,414,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 150 x 750 mm SZ Tool Install,571683,,571683,24,Meters,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 150 x 900 mm SZ Tool Install,571686,,571686,27,Meters,Ok,0,07/10/2024,Not Repeated
-Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 125A 4 Pin 230V 9H Black Ceeform Interlock Switched,5887A,,5887A,8,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 125A 4 Pin 230V 9H Blue Ceeform Interlock Plug,13218,,13218,11,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 3 Pin 110V 4H Yellow Ceeform Interlock Plug,247,,247,10,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 3 Pin 230V 6H Blue Ceeform Interlock Plug,13502,,13502,-3,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 3 Pin 230V 6H Blue Ceeform Interlock Plug,148A,,148A,0,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 3 Pin 230V 6H Blue Ceeform Interlock Plug,248,,248,0,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 3 Pin 230V 6H Blue Ceeform Interlock Switched,7002A,,7002A,5,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 4 Pin 230V 9H Blue Ceeform Interlock Plug,151A,,151A,6,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 4 Pin 230V 9H Blue Ceeform Interlock Switched,5099A,,5099A,21,Ea,Ok,0,25/09/2024,Repeated
-Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 4 Pin 230V 9H Blue Ceeform Interlock Switched,5601409G,,5601409G,5,Ea,Ok,0,25/09/2024,Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 4 Pin 400V 6H Red Ceeform Interlock Plug,282,,282,0,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 4 Pin 400V 6H Red Ceeform Interlock Switched,5601406G,,5601406G,2,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 4 Pin 500V 7H Black Ceeform Interlock Plug,3810,,3810,2,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 4 Pin 500V 7H Black Ceeform Interlock Switched,5601407G,,5601407G,0,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 4 Pin 500V 7H Blue Ceeform Interlock Switched,5602407G,,5602407G,0,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 5 Pin 230V 9H Blue Ceeform Interlock Plug,13509,,13509,12,Ea,Ok,0,25/09/2024,Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 5 Pin 230V 9H Blue Ceeform Interlock Plug,3823,,3823,0,Ea,Ok,0,25/09/2024,Repeated
-Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 5 Pin 230V 9H Blue Ceeform Interlock Switched,5102A,,5102A,16,Ea,Ok,0,25/09/2024,Repeated
-Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 5 Pin 230V 9H Blue Ceeform Interlock Switched,5602509G,,5602509G,-1,Ea,Ok,0,25/09/2024,Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 3 Pin 110V 4H Yellow Ceeform Interlock Plug,13512,,13512,0,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 3 Pin 230V 6H Blue Ceeform Interlock Switched,5696A,,5696A,0,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 4 Pin 230V 9H Blue Ceeform Interlock Plug,163,,163,4,Ea,Ok,0,25/09/2024,Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 4 Pin 230V 9H Blue Ceeform Interlock Plug,3844,,3844,20,Ea,Ok,0,25/09/2024,Repeated
-Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 4 Pin 230V 9H Blue Ceeform Interlock Switched,5104A,,5104A,2,Ea,Ok,0,14/10/2024,Repeated
-Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 4 Pin 230V 9H Blue Ceeform Interlock Switched,5603409G,,5603409G,5,5104,Ok,0,25/09/2024,Repeated
-Wiring devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 4 Pin 500V 7H Black Ceeform Interlock Switched,5603407G,,5603407G,2,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 4 Pin 500V 7H Black Plug Ceeform Interlock Plug,295,,295,2,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 5 Pin 230V 9H Blue Ceeform Interlock Plug,13519,,13519,26,Ea,Ok,0,25/09/2024,Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 5 Pin 230V 9H Blue Ceeform Interlock Plug,269,,269,0,Ea,Ok,0,25/09/2024,Repeated
-Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 5 Pin 230V 9H Blue Ceeform Interlock Switched,5107A,,5107A,0,Ea,Ok,0,25/09/2024,Repeated
-Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 5 Pin 230V 9H Blue Ceeform Interlock Switched,5603509G,,5603509G,6,Ea,Ok,0,25/09/2024,Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 63A 4 Pin 230V 9H Blue Ceeform Interlock Plug,13105,,13105,0,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 63A 4 Pin 230V 9H Blue Ceeform Interlock Switched,5955A,,5955A,31,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 63A 4 Pin 400V 6H Red Ceeform Interlock Plug,13106,,13106,0,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 63A 4 Pin 500V 7H Black Ceeform Interlock Plug,13207,,13207,-1,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 63A 4 Pin 500V 7H Black Ceeform Interlock Switched,5957A,,5957A,0,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 63A 5 Pin 230V 9H Blue Ceeform Interlock Plug,13211,,13211,0,Ea,Ok,0,25/09/2024,Not Repeated
-Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 63A 5 Pin 230V 9H Blue Ceeform Interlock Switched,5112A,,5112A,0,Ea,Ok,0,25/09/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,Square Washer,P1020,ZD,P1020ZD,45400,Ea,Ok,0,20/08/2024,Not Repeated
-Containment,,Tool Install Elec,Unitrunk Ltd,Trunking 100 x 100 mm Tool Install,Trunking 100 x 100 mm ,,Trunking 100 x 100 mm ,21,Ea,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Unitrunk Ltd,Trunking 150 x 150 mm Tool Install,Trunking 150 x 150 mm ,,Trunking 150 x 150 mm ,11,Ea,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Unitrunk Ltd,Trunking 230 x 230 mm Tool Install,Trunking 230 x 230 mm ,,Trunking 230 x 230 mm ,21,Ea,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Unitrunk Ltd,Trunking 50 x 50 mm Tool Install,Trunking 50 x 50 mm ,,Trunking 50 x 50 mm ,40,Ea,Ok,0,07/10/2024,Not Repeated
-Containment,,Tool Install Elec,Unitrunk Ltd,Trunking 75 x 75 mm Tool Install,Trunking 75 x 75 mm ,,Trunking 75 x 75 mm ,2,Ea,Ok,0,07/10/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,Ubolt Beam Clamp,P2785,ZD,P2785ZD,8174,Ea,Ok,0,20/08/2024,Not Repeated
-Supports,,Tool Install Elec,Unistrut,Universal Beamclamp,P1386,ZD,P1386ZD,100,Ea,Ok,0,20/08/2024,Not Repeated
+Category,Model,Related Project,Product Manufacturer,Part Description,Part Number,Spec / Finish / Length ,Inventory ID,Live Stock Quantity,UOM
+Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,28327A,,28327A,1220,Meters
+Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,4200ULW,,4200ULW,0,Meters
+Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,4300ULW,,4300ULW,1890,Meters
+Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,4302ULW,,4302ULW,5920,Meters
+Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,4305ULW,,4305ULW,1500,Meters
+Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,4309ULW,,4309ULW,0,Meters
+Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,8205,,8205,1830,Meters
+Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,82489,,82489,610,Meters
+Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,83653,,83653,305,Meters
+Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,85220,,85220,610,Meters
+Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,8677,,8677,305,Meters
+Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,8770ELW,,8770ELW,3050,Meters
+Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,8770NH,,8770NH,3344,Meters
+Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,9501NH,,9501NH,500,Meters
+Beldens,,Tool Install Elec,Anixter Distribution Ireland Ltd,Belden,9841,,9841,305,Meters
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 100 Metric,100A21RA,,100A21RA,0,Meters
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 115 Metric,115A21RA,,115A21RA,0,Meters
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 130 Metric,130A21RA,,130A21RA,0,Meters
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 20 Metric,20A21RA,,20A21RA,0,Meters
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 20S16 Metric,20S16A21RA,,20S16A21RA,0,Meters
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 20S Metric,20SA21RA,,20SA21RA,0,Meters
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 25 Metric,25A21RA,,25A21RA,0,Meters
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 32 Metric,32A21RA,,32A21RA,10,Meters
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 40 Metric,40A21RA,,40A21RA,130,Meters
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 50 Metric,50A21RA,,50A21RA,80,Meters
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 50S Metric,50SA21RA,,50SA21RA,80,Meters
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 63 Metric,63A21RA,,63A21RA,30,Meters
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 63S Metric,63SA21RA,,63SA21RA,230,Meters
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 75 Metric,75A21RA,,75A21RA,15,Meters
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 75S Metric,75SA21RA,,75SA21RA,20,Meters
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,Gland Brass Cable A2 90 Metric,90A21RA,,90A21RA,0,Meters
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,CMP A2 LSF Brass Gland Kit-20 LOE,A2K 32 LSF-20,,A2K 32 LSF-20,10,Ea
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,CMP A2 LSF Brass Gland Kit,A2K 40 LSF,,A2K 40 LSF,140,Ea
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,CMP A2 LSF Brass Gland Kit,A2K 50 LSF,,A2K 50 LSF,80,Ea
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,CMP A2 LSF Brass Gland Kit,A2K 50S LSF,,A2K 50S LSF,80,Ea
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,CMP A2 LSF Brass Gland Kit,A2K 63 LSF,,A2K 63 LSF,30,Ea
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,CMP A2 LSF Brass Gland Kit,A2K 63S LSF,,A2K 63S LSF,250,Ea
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,CMP A2 LSF Brass Gland Kit,A2K 75 LSF,,A2K 75 LSF,15,Ea
+Cables,Gland,Tool Install Elec,ETS Cable Components Ireland Ltd,CMP A2 LSF Brass Gland Kit,A2K 75S LSF,,A2K 75S LSF,20,Ea
+Commscope,,Tool Install Elec,Anixter Distribution Ireland Ltd,Data Whip 3-Port-10MT   ,257121-LG3P-35FT-R4,,257121-LG3P-35FT-R4,19,Ea
+Commscope,,Tool Install Elec,Anixter Distribution Ireland Ltd,Data Whip 3-Port-15MT   ,257121-LG3P-50FT-R4,,257121-LG3P-50FT-R4,58,Ea
+Commscope,,Tool Install Elec,Anixter Distribution Ireland Ltd,Data Whip 3-Port-20MT   ,257121-LG3P-65FT-R4,,257121-LG3P-65FT-R4,65,Ea
+Commscope,,Tool Install Elec,Anixter Distribution Ireland Ltd,Data Whip 3-Port-25MT   ,257121-LG3P-85FT-R4,,257121-LG3P-85FT-R4,2,Ea
+Commscope,,Tool Install Elec,Anixter Distribution Ireland Ltd,Data Whip 6-Port-10MT   ,257121-LG6P-35FT-R1,,257121-LG6P-35FT-R1,26,Ea
+Commscope,,Tool Install Elec,Anixter Distribution Ireland Ltd,Data Whip 6-Port-15MT   ,257121-LG6P-50FT-R1,,257121-LG6P-50FT-R1,13,Ea
+Commscope,,Tool Install Elec,Anixter Distribution Ireland Ltd,Data Whip 6-Port-20MT   ,257121-LG6P-65FT-R1,,257121-LG6P-65FT-R1,11,Ea
+Commscope,,Tool Install Elec,Anixter Distribution Ireland Ltd,Data Whip 6-Port-25MT   ,257121-LG6P-85FT-R1,,257121-LG6P-85FT-R1,2,Ea
+Containment,,Tool Install Elec,Cleveland Cable (IRE),Basket 100 mm Tool Install,  CF105100E,,  CF105100E,0,Meters
+Containment,,Tool Install Elec,Cleveland Cable (IRE),Basket 150 mm Tool Install,  CF105150E,,  CF105150E,196,Meters
+Containment,,Tool Install Elec,Cleveland Cable (IRE),Basket 200 mm Tool Install,  CF105200E,,  CF105200E,81,Meters
+Containment,,Tool Install Elec,Cleveland Cable (IRE),Basket 300 mm Tool Install,  CF105300E,,  CF105300E,237,Meters
+Containment,,Tool Install Elec,Cleveland Cable (IRE),Basket 400 mm Tool Install,  CF105400E,,  CF105400E,147,Meters
+Containment,,Tool Install Elec,Cleveland Cable (IRE),Basket 450 mm Tool Install,  CF105450E,,  CF105450E,81,Meters
+Containment,,Tool Install Elec,Cleveland Cable (IRE),Basket 500 mm Tool Install,  CF105500E,,  CF105500E,21,Meters
+Containment,,Tool Install Elec,Cleveland Cable (IRE),Basket 600 mm Tool Install,  CF105600E,,  CF105600E,114,Meters
+Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 100 x 150 mm SZ Tool Install,571648,,571648,192,Meters
+Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 100 x 200 mm SZ Tool Install,571649,,571649,66,Meters
+Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 100 x 300 mm SZ Tool Install,571651,,571651,75,Meters
+Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 100 x 450 mm SZ Tool Install,571654,,571654,51,Meters
+Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 100 x 450 mm Base Build Tool Install ,571654,Base Build,571654Base Build,60,Meters
+Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 100 x 600 mm SZ Tool Install,571657,,571657,42,Meters
+Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 100 x 750 mm SZ Tool Install,571660,,571660,135,Meters
+Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 100 x 900 mm SZ Tool Install,571663,,571663,42,Meters
+Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 100 x 1200 mm SZ Tool Install,571669,,571669,0,Meters
+Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 150 x 150 mm SZ Tool Install,571671,,571671,351,Meters
+Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 150 x 200 mm SZ Tool Install,571672,,571672,72,Meters
+Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 150 x 300 mm SZ Tool Install,571674,,571674,84,Meters
+Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 150 x 450 mm SZ Tool Install,571677,,571677,48,Meters
+Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 150 x 600 mm SZ Tool Install,571680,,571680,369,Meters
+Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 150 x 750 mm SZ Tool Install,571683,,571683,45,Meters
+Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 150 x 900 mm SZ Tool Install,571686,,571686,42,Meters
+Containment,,Tool Install Elec,Niedax CMS Ltd,Hercule ladder 150 x 1200 mm SZ Tool Install,571692,,571692,66,Meters
+Containment,,Tool Install Elec,Niedax CMS Ltd,Cable Tray 100 x 50 mm Tool Install,Cable Tray 100 x 50 mm ,,Cable Tray 100 x 50 mm ,0,Ea
+Containment,,Tool Install Elec,Niedax CMS Ltd,Cable Tray 150 x 25 mm Tool Install,Cable Tray 150 x 25 mm ,,Cable Tray 150 x 25 mm ,28,Ea
+Containment,,Tool Install Elec,Niedax CMS Ltd,Cable Tray 150 x 50 mm Tool Install,Cable Tray 150 x 50 mm ,,Cable Tray 150 x 50 mm ,20,Ea
+Containment,,Tool Install Elec,Niedax CMS Ltd,Cable Tray 300 x 25 mm Tool Install,Cable Tray 300 x 25 mm ,,Cable Tray 300 x 25 mm ,2,Ea
+Containment,,Tool Install Elec,Niedax CMS Ltd,Cable Tray 300 x 50 mm Tool Install,Cable Tray 300 x 50 mm ,,Cable Tray 300 x 50 mm ,0,Ea
+Containment,,Tool Install Elec,Niedax CMS Ltd,Cable Tray 50 x 25 mm Tool Install,Cable Tray 50 x 25 mm ,,Cable Tray 50 x 25 mm ,1,Ea
+Containment,,Tool Install Elec,Niedax CMS Ltd,Cable Tray 50 x 50 mm Tool Install,Cable Tray 50 x 50 mm ,,Cable Tray 50 x 50 mm ,10,Ea
+Containment,,Tool Install Elec,Niedax CMS Ltd,Cable Tray 75 x 25 mm Tool Install,Cable Tray 75 x 25 mm ,,Cable Tray 75 x 25 mm ,30,Ea
+Containment,,Tool Install Elec,Niedax CMS Ltd,Fillet/Divider 100 mm Tool Install,Fillet/Divider 100 mm ,,Fillet/Divider 100 mm ,50,Ea
+Containment,,Tool Install Elec,Niedax CMS Ltd,Fillet/Divider 75 mm Tool Install,Fillet/Divider 75 mm ,,Fillet/Divider 75 mm ,42,Ea
+Containment,,Tool Install Elec,Unitrunk Ltd,Trunking 100 x 100 mm Tool Install,Trunking 100 x 100 mm ,,Trunking 100 x 100 mm ,19,Ea
+Containment,,Tool Install Elec,Unitrunk Ltd,Trunking 150 x 150 mm Tool Install,Trunking 150 x 150 mm ,,Trunking 150 x 150 mm ,11,Ea
+Containment,,Tool Install Elec,Unitrunk Ltd,Trunking 230 x 230 mm Tool Install,Trunking 230 x 230 mm ,,Trunking 230 x 230 mm ,21,Ea
+Containment,,Tool Install Elec,Unitrunk Ltd,Trunking 50 x 50 mm Tool Install,Trunking 50 x 50 mm ,,Trunking 50 x 50 mm ,25,Ea
+Containment,,Tool Install Elec,Unitrunk Ltd,Trunking 75 x 75 mm Tool Install,Trunking 75 x 75 mm ,,Trunking 75 x 75 mm ,2,Ea
+Storage Box,,Tool Install Elec,,Storage Box 150x150x150,150x150x150,,150x150x150,1,Ea
+Storage Box,,Tool Install Elec,,Storage Box 200x200x100,200x200x100,,200x200x100,11,Ea
+Storage Box,,Tool Install Elec,,Storage Box 200x200x150,200x200x150,,200x200x150,1,Ea
+Storage Box,,Tool Install Elec,,Storage Box 300x150x150,300x150x150,,300x150x150,4,Ea
+Storage Box,,Tool Install Elec,,Storage Box 300x300x200,300x300x200,,300x300x200,2,Ea
+Storage Box,,Tool Install Elec,,Storage Box 400x400x150,400x400x150,,400x400x150,1,Ea
+Storage Box,,Tool Install Elec,,Storage Box 450x100x100,450x100x100,,450x100x100,1,Ea
+Storage Box,,Tool Install Elec,,Storage Box 450x450x100,450x450x100,,450x450x100,4,Ea
+Storage Box,,Tool Install Elec,,Storage Box 450x450x150,450x450x150,,450x450x150,5,Ea
+Storage Box,,Tool Install Elec,,Storage Box 450x450x200,450x450x200,,450x450x200,1,Ea
+Storage Box,,Tool Install Elec,,Storage Box 500x100x200,500x100x200,,500x100x200,1,Ea
+Storage Box,,Tool Install Elec,,Storage Box 600x600x100,600x600x100,,600x600x100,1,Ea
+Storage Box,,Tool Install Elec,,Storage Box 750x750x300,750x750x300,,750x750x300,1,Ea
+Supports,,Tool Install Elec,Unistrut,Channel,P1000,ZD / / 3,P1000ZD / / 3,1500,Meters
+Supports,,Tool Install Elec,Unistrut,Channel,P1000,ZD / / 6,P1000ZD / / 6,9,Meters
+Supports,,Tool Install Elec,Unistrut,Comb Channel,P1001,ZD,P1001ZD,0,Ea
+Supports,,Tool Install Elec,Unistrut,Comb Channel,P1001,ZD / / 3,P1001ZD / / 3,462,Meters
+Supports,,Tool Install Elec,Unistrut,Square Washer,P1020,ZD,P1020ZD,59600,Ea
+Supports,,Tool Install Elec,Unistrut,2 Hole 90 Deg Fitting,P1026,ZD,P1026ZD,3160,Ea
+Supports,,Tool Install Elec,Unistrut,4 Hole Flat T Fitting,P1031,ZD,P1031ZD,120,Ea
+Supports,,Tool Install Elec,Unistrut,3+1 Hole 90 Deg Fitting,P1033,ZD,P1033ZD,20,Ea
+Supports,,Tool Install Elec,Unistrut,3 Hole Flat R/Angle Fitting,P1036,ZD,P1036ZD,2430,Ea
+Supports,,Tool Install Elec,Unistrut,2+1 Hole Left Fitting,P1037,ZD,P1037ZD,100,Ea
+Supports,,Tool Install Elec,Unistrut,3 Hole Z Fitting,P1045,ZD,P1045ZD,2870,Ea
+Supports,,Tool Install Elec,Unistrut,5 Hole U Fitting,P1047,ZD,P1047ZD,3880,Ea
+Supports,,Tool Install Elec,Unistrut,2 Hole Straight Fitting,P1065,ZD,P1065ZD,4100,Ea
+Supports,,Tool Install Elec,Unistrut,3 Hole Straight Fitting,P1066,ZD,P1066ZD,420,Ea
+Supports,,Tool Install Elec,Unistrut,4 Hole Straight Fitting,P1067,ZD,P1067ZD,1160,Ea
+Supports,,Tool Install Elec,Unistrut,4 Hole 90 Deg Fitting,P1325,ZD,P1325ZD,670,Ea
+Supports,,Tool Install Elec,Unistrut,3 Hole 90 Deg Fitting,P1326,ZD,P1326ZD,1600,Ea
+Supports,,Tool Install Elec,Unistrut,Adjustable 4-Hole Hinge,P1354,ZD,P1354ZD,20,Ea
+Supports,,Tool Install Elec,Unistrut,4 Hole Flat Delta T Fitting,P1358,ZD,P1358ZD,10,Ea
+Supports,,Tool Install Elec,Unistrut,Universal Beamclamp,P1386,ZD,P1386ZD,100,Ea
+Supports,,Tool Install Elec,Unistrut,3 Hole Deep U Fitting,P1737,ZD,P1737ZD,100,Ea
+Supports,,Tool Install Elec,Unistrut,Angle Beamclamp,P1796,ZD,P1796ZD,270,Ea
+Supports,,Tool Install Elec,Unistrut,2+2 HOLE BASE PLATE,P2072,ZD,P2072ZD,190,Ea
+Supports,,Tool Install Elec,Unistrut,2+4 Hole Base Plate,P2073,ZD,P2073ZD,150,Ea
+Supports,,Tool Install Elec,Unistrut,2 Hole Left Fitting Bracket ,P2341 L,ZD,P2341 LZD,1973,Ea
+Supports,,Tool Install Elec,Unistrut,2 Hole Right Fitting Bracket ,P2341 R,ZD,P2341 RZD,2258,Ea
+Supports,,Tool Install Elec,Unistrut,2+6 Hole Wing Fitting,P2346,ZD,P2346ZD,350,Ea
+Supports,,Tool Install Elec,Unistrut,7 Hole 90 Deg Gusset Fitting,P2484,ZD,P2484ZD,20,Ea
+Supports,,Tool Install Elec,Unistrut,Ubolt Beam Clamp,P2785,ZD,P2785ZD,7674,Ea
+Supports,,Tool Install Elec,Unistrut,2+2 HOLE BASE PLATE,P2786,ZD,P2786ZD,0,Ea
+Supports,,Tool Install Elec,Unistrut,Channel,P3300,ZD / / 3,P3300ZD / / 3,105,Meters
+Supports,,Tool Install Elec,Unistrut,Channel,P3300,ZD / / 6,P3300ZD / / 6,3969,Meters
+Supports,,Tool Install Elec,Unistrut,Comb Channel,P3301,ZD / / 3,P3301ZD / / 3,1191,Meters
+Supports,,Tool Install Elec,Unistrut,Comb Channel,P3301,ZD / / 6,P3301ZD / / 6,10192,Meters
+Supports,,Tool Install Elec,Unistrut,2 Hole Z Fitting,P4045,ZD,P4045ZD,680,Ea
+Supports,,Tool Install Elec,Unistrut,3 Hole U Fitting,P4047,ZD,P4047ZD,1824,Ea
+Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 63A 4 Pin 230V 9H Blue Ceeform Interlock Plug,13105,,13105,0,Ea
+Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 63A 4 Pin 400V 6H Red Ceeform Interlock Plug,13106,,13106,0,Ea
+Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 63A 5 Pin 230V 9H Blue Ceeform Interlock Plug,13111,,13111,2,Ea
+Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 63A 4 Pin 500V 7H Black Ceeform Interlock Plug,13207,,13207,1,Ea
+Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 63A 5 Pin 230V 9H Blue Ceeform Interlock Plug,13211,,13211,0,Ea
+Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 125A 4 Pin 230V 9H Blue Ceeform Interlock Plug,13218,,13218,9,Ea
+Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 3 Pin 230V 6H Blue Ceeform Interlock Plug,13502,,13502,6,Ea
+Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 5 Pin 230V 9H Blue Ceeform Interlock Plug,13509,,13509,11,Ea
+Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 3 Pin 110V 4H Yellow Ceeform Interlock Plug,13512,,13512,0,Ea
+Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 5 Pin 230V 9H Blue Ceeform Interlock Plug,13519,,13519,25,Ea
+Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 4 Pin 230V 9H Blue Ceeform Interlock Plug,151A,,151A,6,Ea
+Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 3 Pin 110V 4H Yellow Ceeform Interlock Plug,247,,247,10,Ea
+Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 4 Pin 400V 6H Red Ceeform Interlock Plug,282,,282,0,Ea
+Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 4 Pin 500V 7H Black Plug Ceeform Interlock Plug,295,,295,0,Ea
+Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 4 Pin 500V 7H Black Ceeform Interlock Plug,3810,,3810,2,Ea
+Wiring Devices,Plug,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 4 Pin 230V 9H Blue Ceeform Interlock Plug,3844,,3844,20,Ea
+Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 3 Pin 230V 6H Blue Ceeform Interlock Plug,3919,,3919,20,Ea
+Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 63A 4 Pin 500V 7H Black Ceeform Interlock Switched,5111A,,5111A,2,Ea
+Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 63A 5 Pin 230V 9H Blue Ceeform Interlock Switched,5112A,,5112A,0,Ea
+Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 4 Pin 400V 6H Red Ceeform Interlock Switched,5601406G,,5601406G,2,Ea
+Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 4 Pin 500V 7H Black Ceeform Interlock Switched,5601407G,,5601407G,0,Ea
+Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 4 Pin 230V 9H Blue Ceeform Interlock Switched,5601409G,,5601409G,28,Ea
+Wiring devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 4 Pin 500V 7H Blue Ceeform Interlock Switched,5602407G,,5602407G,0,Ea
+Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 5 Pin 230V 9H Blue Ceeform Interlock Switched,5602509G,,5602509G,25,Ea
+Wiring devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 4 Pin 500V 7H Black Ceeform Interlock Switched,5603407G,,5603407G,0,Ea
+Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 4 Pin 230V 9H Blue Ceeform Interlock Switched,5603409G,,5603409G,3,Ea
+Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 5 Pin 230V 9H Blue Ceeform Interlock Switched,5603509G,,5603509G,0,Ea
+Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 3 Pin 230V 6H Blue Ceeform Interlock Switched,5611306G,,5611306G,20,Ea
+Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 32A 3 Pin 230V 6H Blue Ceeform Interlock Switched,5696A,,5696A,0,Ea
+Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 125A 4 Pin 230V 9H Black Ceeform Interlock Switched,5887A,,5887A,6,Ea
+Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 63A 4 Pin 230V 9H Blue Ceeform Interlock Switched,5955A,,5955A,23,Ea
+Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 63A 4 Pin 500V 7H Black Ceeform Interlock Switched,5957A,,5957A,0,Ea
+Wiring Devices,Switched,Tool Install Elec,Eastern Electrical Ltd,Mennekes 16A 3 Pin 230V 6H Blue Ceeform Interlock Switched,7002A,DUO,7002ADUO,2,Ea
